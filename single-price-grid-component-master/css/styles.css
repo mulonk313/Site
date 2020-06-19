@@ -1,0 +1,86 @@
+body{
+  font-size: 16px;
+  font-family: 'Karla', sans-serif;
+  text-align: left;
+  background-color: hsl(218, 22%, 67%);
+}
+
+.div1{
+  top: 125px;
+  left: 365px;
+  position:relative;
+  width:650px;
+  padding:50px;
+  background-color: white;
+  color: grey;
+  font-weight: normal;
+  border-top-left-radius: 7px 7px;
+  border-top-right-radius: 7px 7px;
+}
+
+.span1{
+  color:hsl(179, 62%, 43%);
+  font-weight: 700;
+}
+
+.span2{
+  color: hsl(71, 73%, 54%);
+  font-weight: 400;
+}
+
+.div2{
+  text-align: center;
+  position: absolute;
+  left: 373px;
+  top: 381px;
+  width: 370px;
+  height: 300px;
+  background-color:hsl(179, 62%, 43%);
+  color: white;
+  border-bottom-left-radius: 7px 7px;
+}
+
+.span3{
+  font-size: 30px;
+}
+
+.span4{
+  color:lightgrey;
+}
+
+.div3{
+  top: 381px;
+  position: absolute;
+  text-align: center;
+  left:743px;
+  height:300px;
+  width: 380px;
+  color: white;
+  background-color: darkcyan;
+  border-bottom-right-radius: 7px 7px;
+}
+
+.span5{
+  left: 5px;
+  font-weight: bold;
+}
+
+
+.button{
+  padding-top: 20px;
+  height: 40px;
+  position: absolute;
+  left: 65px;
+  bottom: 35px;
+  border: solid;
+  border: 5px;
+  width: 65%;
+  background-color: hsl(71, 73%, 54%);
+  border-top-left-radius: 7px 7px;
+  border-top-right-radius: 7px 7px;
+  border-bottom-left-radius: 7px 7px;
+  border-bottom-right-radius: 7px 7px;
+  box-shadow: 1px 1px 20px 0px #000000;
+  -webkit-box-shadow: 1px 1px 20px 0px #000000;
+  -moz-box-shadow: 1px 1px 20px 0px #000000;
+}
